@@ -1,0 +1,10 @@
+Para rodar o projeto
+
+npm install
+
+npm run start-dev
+
+CORS - Permite que o servidor indique quaisquer origens diferentes das suas próprias.
+Dotenv - uma ferramenta que gerencia variaveis de ambiente.
+Express - Framework para aplicações web do node js
+Nodemon - Serve para reiniciar automaticamente o servidor quando há alterações nos arquivos da aplicação. 
